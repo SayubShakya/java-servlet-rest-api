@@ -1,0 +1,32 @@
+2025-06-07 19:16:47.247 INFO  org.eclipse.jetty.server.Server:384 - jetty-11.0.15; built: 2023-04-11T18:37:53.775Z; git: 5bc5e562c8d05c5862505aebe5cf83a61bdbcb96; jvm 17.0.12+8-LTS-286
+2025-06-07 19:19:05.093 INFO  org.eclipse.jetty.server.Server:384 - jetty-11.0.15; built: 2023-04-11T18:37:53.775Z; git: 5bc5e562c8d05c5862505aebe5cf83a61bdbcb96; jvm 17.0.12+8-LTS-286
+2025-06-07 19:19:05.275 INFO  org.eclipse.jetty.webapp.StandardDescriptorProcessor:274 - NO JSP Support for /, did not find org.eclipse.jetty.jsp.JettyJspServlet
+2025-06-07 19:19:05.289 INFO  org.eclipse.jetty.server.session.DefaultSessionIdManager:332 - Session workerName=node0
+2025-06-07 19:19:05.310 INFO  org.eclipse.jetty.server.handler.ContextHandler:907 - Started o.e.j.w.WebAppContext@5c909414{/,file:///C:/Users/acer/Desktop/java_servlet_api/src/main/webapp/,AVAILABLE}
+2025-06-07 19:19:05.350 INFO  org.eclipse.jetty.server.AbstractConnector:376 - Started ServerConnector@6d4b1c02{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2025-06-07 19:19:05.351 INFO  org.eclipse.jetty.server.Server:439 - Started Server@6950e31{STARTING}[11.0.15,sto=0] @548ms
+2025-06-07 19:19:16.465 INFO  com.sayub.java_servlet_api.NextServlet:20 - doGet has been called for /next
+2025-06-07 20:01:10.998 INFO  org.eclipse.jetty.server.Server:384 - jetty-11.0.15; built: 2023-04-11T18:37:53.775Z; git: 5bc5e562c8d05c5862505aebe5cf83a61bdbcb96; jvm 17.0.12+8-LTS-286
+2025-06-07 20:01:11.348 INFO  org.eclipse.jetty.webapp.StandardDescriptorProcessor:274 - NO JSP Support for /, did not find org.eclipse.jetty.jsp.JettyJspServlet
+2025-06-07 20:01:11.376 INFO  org.eclipse.jetty.server.session.DefaultSessionIdManager:332 - Session workerName=node0
+2025-06-07 20:01:11.404 INFO  org.eclipse.jetty.server.handler.ContextHandler:907 - Started o.e.j.w.WebAppContext@7a69b07{/,file:///C:/Users/acer/Desktop/java_servlet_api/src/main/webapp/,AVAILABLE}
+2025-06-07 20:01:11.453 INFO  org.eclipse.jetty.server.AbstractConnector:376 - Started ServerConnector@1a968a59{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2025-06-07 20:01:11.455 INFO  org.eclipse.jetty.server.Server:439 - Started Server@22eeefeb{STARTING}[11.0.15,sto=0] @885ms
+2025-06-07 20:12:12.785 INFO  org.eclipse.jetty.server.Server:384 - jetty-11.0.15; built: 2023-04-11T18:37:53.775Z; git: 5bc5e562c8d05c5862505aebe5cf83a61bdbcb96; jvm 17.0.12+8-LTS-286
+2025-06-07 20:12:13.176 INFO  org.eclipse.jetty.webapp.StandardDescriptorProcessor:274 - NO JSP Support for /, did not find org.eclipse.jetty.jsp.JettyJspServlet
+2025-06-07 20:12:13.198 INFO  org.eclipse.jetty.server.session.DefaultSessionIdManager:332 - Session workerName=node0
+2025-06-07 20:12:13.227 INFO  org.eclipse.jetty.server.handler.ContextHandler:907 - Started o.e.j.w.WebAppContext@7c0c77c7{/,file:///C:/Users/acer/Desktop/java_servlet_api/src/main/webapp/,AVAILABLE}
+2025-06-07 20:12:13.288 INFO  org.eclipse.jetty.server.AbstractConnector:376 - Started ServerConnector@5622fdf{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2025-06-07 20:12:13.292 INFO  org.eclipse.jetty.server.Server:439 - Started Server@6950e31{STARTING}[11.0.15,sto=0] @1059ms
+2025-06-08 14:45:43.130 INFO  org.eclipse.jetty.server.Server:384 - jetty-11.0.15; built: 2023-04-11T18:37:53.775Z; git: 5bc5e562c8d05c5862505aebe5cf83a61bdbcb96; jvm 17.0.12+8-LTS-286
+2025-06-08 14:45:43.438 INFO  org.eclipse.jetty.webapp.StandardDescriptorProcessor:274 - NO JSP Support for /, did not find org.eclipse.jetty.jsp.JettyJspServlet
+2025-06-08 14:45:43.459 INFO  org.eclipse.jetty.server.session.DefaultSessionIdManager:332 - Session workerName=node0
+2025-06-08 14:45:43.483 INFO  org.eclipse.jetty.server.handler.ContextHandler:907 - Started o.e.j.w.WebAppContext@48aaecc3{/,file:///C:/Users/acer/Desktop/java_servlet_api/src/main/webapp/,AVAILABLE}
+2025-06-08 14:45:43.532 INFO  org.eclipse.jetty.server.AbstractConnector:376 - Started ServerConnector@6a4f787b{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2025-06-08 14:45:43.534 INFO  org.eclipse.jetty.server.Server:439 - Started Server@8646db9{STARTING}[11.0.15,sto=0] @895ms
+2025-06-08 14:51:42.035 INFO  org.eclipse.jetty.server.Server:384 - jetty-11.0.15; built: 2023-04-11T18:37:53.775Z; git: 5bc5e562c8d05c5862505aebe5cf83a61bdbcb96; jvm 17.0.12+8-LTS-286
+2025-06-08 14:51:42.581 INFO  org.eclipse.jetty.webapp.StandardDescriptorProcessor:274 - NO JSP Support for /, did not find org.eclipse.jetty.jsp.JettyJspServlet
+2025-06-08 14:51:42.624 INFO  org.eclipse.jetty.server.session.DefaultSessionIdManager:332 - Session workerName=node0
+2025-06-08 14:51:42.686 INFO  org.eclipse.jetty.server.handler.ContextHandler:907 - Started o.e.j.w.WebAppContext@3967e60c{/,file:///C:/Users/acer/Desktop/java_servlet_api/src/main/webapp/,AVAILABLE}
+2025-06-08 14:51:42.761 INFO  org.eclipse.jetty.server.AbstractConnector:376 - Started ServerConnector@6a41eaa2{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2025-06-08 14:51:42.764 INFO  org.eclipse.jetty.server.Server:439 - Started Server@4671e53b{STARTING}[11.0.15,sto=0] @1430ms
