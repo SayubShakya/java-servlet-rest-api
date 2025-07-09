@@ -1,58 +1,63 @@
 # === MAVEN BUILD ===
 /target/
 !.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
 
-# === IDEA ===
+# === BUILD DIRS INSIDE SOURCE FOLDERS ===
+**/src/main/**/target/
+**/src/test/**/target/
+**/src/main/**/build/
+**/src/test/**/build/
+build/
+.gradle/
+
+# === IDEA (IntelliJ) ===
 .idea/
 *.iml
 *.iws
 *.ipr
+.idea/modules.xml
+.idea/jarRepositories.xml
+.idea/compiler.xml
+.idea/libraries/
+.idea/inspectionProfiles/
+.idea/workspace.xml
+.idea/uiDesigner.xml
+out/
+
+# === Eclipse ===
+.classpath
+.project
+.settings/
+
+# === NetBeans ===
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+.nb-gradle/
+
+# === VS Code ===
+.vscode/
 
 # === OS FILES ===
 .DS_Store
 Thumbs.db
 
-# === LOGS ===
+# === LOG FILES ===
 *.log
+server.log
 
-# === VSCODE ===
-.vscode/
+# === USER FILES ===
+*.swp
+*~
+*.tmp
 
-# === TEST RESULTS ===
+# === JAVA COMPILED CLASSES ===
 *.class
 *.jar
 *.war
 *.ear
 
-# === USER FILES ===
-*.swp
-*~
-
-# === IntelliJ specific ===
-.idea/modules.xml
-.idea/jarRepositories.xml
-.idea/compiler.xml
-.idea/libraries/
-out/
-
-# === Eclipse specific ===
-.classpath
-.project
-.settings/
-
-# === NetBeans specific ===
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
-
-# === Build dirs inside source folders ===
-**/src/main/**/target/
-**/src/test/**/target/
-**/src/main/**/build/
-**/src/test/**/build/
-
-# === Other build tools ===
-build/
-.gradle/
+# === JETTY / WEBAPP TEMP FILES ===
+webapp/WEB-INF/classes/
