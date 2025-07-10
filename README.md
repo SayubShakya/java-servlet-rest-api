@@ -34,7 +34,7 @@ This project is a **Java Servlet-based REST API** for managing users. It allows 
 - Java JDK
 - Apache Maven
 - MySQL Server
-- Postman (or any API testing tool)
+- Postman
 - Jetty Server (configured via Maven plugin)
 
 ### Clone & Run
